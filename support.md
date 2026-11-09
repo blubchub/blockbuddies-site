@@ -1,10 +1,10 @@
 ---
-title: Pop Meadow support
+title: Buddy Acres support
 ---
 
-# Pop Meadow support
+# Buddy Acres support
 
-Pop Meadow is a tap-to-pop puzzle game for iPhone, with a cosy farm to come home to. Tap a group of two or more matching
+Buddy Acres is a tap-to-pop puzzle game for iPhone, with a cosy farm to come home to. Tap a group of two or more matching
 buddies and they pop. Bigger groups make specials, chains make cascades, and a rare pet can burst out of the blocks.
 
 **Contact:** [lagroue@gmail.com](mailto:lagroue@gmail.com)
@@ -69,7 +69,7 @@ Link text used for this: **See the published pet odds**.
 Please email [lagroue@gmail.com](mailto:lagroue@gmail.com) and include:
 
 1. Your iPhone model and iOS version (Settings → General → About and Software Update).
-2. The app version (Pop Meadow → Settings → Version).
+2. The app version (Buddy Acres → Settings → Version).
 3. What you were doing when it happened, and what you expected.
 4. A screenshot or screen recording, if you can. Please do not include anything personal you do not want to share.
 

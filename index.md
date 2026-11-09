@@ -1,8 +1,8 @@
 ---
-title: Pop Meadow
+title: Buddy Acres
 ---
 
-# Pop Meadow
+# Buddy Acres
 
 A tap-to-pop puzzle game for iPhone.
 

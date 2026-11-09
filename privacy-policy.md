@@ -1,18 +1,18 @@
 ---
-title: Pop Meadow privacy policy
+title: Buddy Acres privacy policy
 ---
 
-# Pop Meadow privacy policy
+# Buddy Acres privacy policy
 
 **Effective date:** 9 November 2026
 **Developer:** Harold Lagroue
 **Contact:** [lagroue@gmail.com](mailto:lagroue@gmail.com)
 
-This policy covers Pop Meadow for iPhone. It is written for players, in plain words.
+This policy covers Buddy Acres for iPhone. It is written for players, in plain words.
 
 ## The short version
 
-- Pop Meadow collects no data about you.
+- Buddy Acres collects no data about you.
 - There are no accounts, no ads, no trackers and no analytics.
 - You can buy crystal packs in the game. Apple handles the payment; we never see your payment details.
 - Your game is saved on your iPhone. The game works offline.
@@ -60,7 +60,7 @@ Off unless you turn them on. The game can send one local alert when your farm's 
 
 ## Children
 
-Pop Meadow is rated 4+. We do not collect data from children, or from anyone else. There are no accounts, chat or ads. In-app purchases follow the iPhone's own Screen Time and Ask to Buy settings.
+We do not collect data from children, or from anyone else. There are no accounts, chat or ads. In-app purchases follow the iPhone's own Screen Time and Ask to Buy settings.
 
 ## Your choices
 
