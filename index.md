@@ -1,8 +1,8 @@
 ---
-title: Buddy Pop
+title: Pop Meadow
 ---
 
-# Buddy Pop
+# Pop Meadow
 
 A tap-to-pop puzzle game for iPhone.
 
