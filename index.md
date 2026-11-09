@@ -1,8 +1,8 @@
 ---
-title: Buddy Acres
+title: Hopple
 ---
 
-# Buddy Acres
+# Hopple
 
 A tap-to-pop puzzle game for iPhone.
 

@@ -1,18 +1,18 @@
 ---
-title: Buddy Acres privacy policy
+title: Hopple privacy policy
 ---
 
-# Buddy Acres privacy policy
+# Hopple privacy policy
 
 **Effective date:** 9 November 2026
 **Developer:** Harold Lagroue
 **Contact:** [lagroue@gmail.com](mailto:lagroue@gmail.com)
 
-This policy covers Buddy Acres for iPhone. It is written for players, in plain words.
+This policy covers Hopple for iPhone. It is written for players, in plain words.
 
 ## The short version
 
-- Buddy Acres collects no data about you.
+- Hopple collects no data about you.
 - There are no accounts, no ads, no trackers and no analytics.
 - You can buy crystal packs in the game. Apple handles the payment; we never see your payment details.
 - Your game is saved on your iPhone. The game works offline.
