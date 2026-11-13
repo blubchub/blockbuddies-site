@@ -82,13 +82,10 @@ Hopple Pop is a separate game that runs on its own on Apple Watch. It needs no i
 - **What stays on your watch:** your levels, stars and best scores, your Daily results, the pet you chose, the cards you have
   seen, your Haptics and Sound settings, and a round you were part way through. All of it is in the app's private storage on
   your Apple Watch, and none of it leaves the watch.
-- **Purchases:** you can buy pets (one-time in-app purchases). Pets are cosmetic and never change a score. Apple's App Store
-  handles the payment and your Apple Account; we receive no payment or account details. Your pets come from Apple's own
-  record of your purchases, not from the save, so **Restore Purchases** (Settings or Shop) brings them back on a new watch.
+- **Purchases:** none. Hopple Pop is free, with no in-app purchases and nothing to buy.
 - **No Game Center, no notifications, no iCloud sync** in this version.
-- **Children:** we collect no data from anyone. Purchases follow Screen Time and Ask to Buy.
-- **Erase:** deleting Hopple Pop from your watch removes its save. Pets you bought stay yours with Apple and come back with
-  Restore Purchases.
+- **Children:** we collect no data from anyone.
+- **Erase:** deleting Hopple Pop from your watch removes its save.
 
 ## Changes to this policy
 

@@ -86,8 +86,8 @@ Hopple Pop is our tap-to-pop game for Apple Watch. It runs on the watch on its o
 
 - **Play:** tap a group of two or more matching buddies to pop it. Turn the Digital Crown to highlight the groups, biggest first.
 - **Saving:** your progress saves on the watch as you play. There is no iCloud sync in this version.
-- **Pets you bought:** open **Shop** or **Settings** and tap **Restore Purchases**. Pets come back on a new or reset watch
-  from Apple's record of your purchases. For a problem with a payment, use Apple's [Report a Problem](https://reportaproblem.apple.com).
+- **Pets:** Clover is with you from the start, and you win 6 more with a Gold result in a world's Bonus Blast. Hopple Pop
+  is free, with nothing to buy.
 - **Prestige:** win the last level of world 6 and Prestige opens: every level again, harder, in three tiers.
 - **Sound and haptics:** Settings → Sound / Haptics.
 - **Contact:** [lagroue@gmail.com](mailto:lagroue@gmail.com)
