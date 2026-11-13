@@ -79,3 +79,16 @@ We reply as soon as we can. Please do not send your Game Center password or any 
 
 If the game stops responding, close it from the app switcher and open it again. If the problem keeps coming back, email us with
 the details above.
+
+## Hopple Pop for Apple Watch
+
+Hopple Pop is our tap-to-pop game for Apple Watch. It runs on the watch on its own.
+
+- **Play:** tap a group of two or more matching buddies to pop it. Turn the Digital Crown to highlight the groups, biggest first.
+- **Saving:** your progress saves on the watch as you play. There is no iCloud sync in this version.
+- **Pets you bought:** open **Shop** or **Settings** and tap **Restore Purchases**. Pets come back on a new or reset watch
+  from Apple's record of your purchases. For a problem with a payment, use Apple's [Report a Problem](https://reportaproblem.apple.com).
+- **Prestige:** win the last level of world 6 and Prestige opens: every level again, harder, in three tiers.
+- **Sound and haptics:** Settings → Sound / Haptics.
+- **Contact:** [lagroue@gmail.com](mailto:lagroue@gmail.com)
+

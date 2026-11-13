@@ -4,11 +4,12 @@ title: Hopple privacy policy
 
 # Hopple privacy policy
 
-**Effective date:** 9 November 2026
+**Effective date:** 13 November 2026
 **Developer:** Harold Lagroue
 **Contact:** [lagroue@gmail.com](mailto:lagroue@gmail.com)
 
-This policy covers Hopple for iPhone. It is written for players, in plain words.
+This policy covers Hopple for iPhone and Hopple Pop for Apple Watch. It is written for players, in plain words. The Hopple Pop
+section near the end covers the watch game.
 
 ## The short version
 
@@ -71,6 +72,23 @@ We do not collect data from children, or from anyone else. There are no accounts
 ## Future versions
 
 iCloud sync is not in this version. If it is added later, we will update this policy before that version is released. It will say what is synced, and how to turn it off.
+
+## Hopple Pop for Apple Watch
+
+Hopple Pop is a separate game that runs on its own on Apple Watch. It needs no iPhone app.
+
+- **It collects no data about you.** No accounts, ads, trackers, analytics or crash reporting, and no server. This matches
+  the "Data Not Collected" label on its App Store page.
+- **What stays on your watch:** your levels, stars and best scores, your Daily results, the pet you chose, the cards you have
+  seen, your Haptics and Sound settings, and a round you were part way through. All of it is in the app's private storage on
+  your Apple Watch, and none of it leaves the watch.
+- **Purchases:** you can buy pets (one-time in-app purchases). Pets are cosmetic and never change a score. Apple's App Store
+  handles the payment and your Apple Account; we receive no payment or account details. Your pets come from Apple's own
+  record of your purchases, not from the save, so **Restore Purchases** (Settings or Shop) brings them back on a new watch.
+- **No Game Center, no notifications, no iCloud sync** in this version.
+- **Children:** we collect no data from anyone. Purchases follow Screen Time and Ask to Buy.
+- **Erase:** deleting Hopple Pop from your watch removes its save. Pets you bought stay yours with Apple and come back with
+  Restore Purchases.
 
 ## Changes to this policy
 
